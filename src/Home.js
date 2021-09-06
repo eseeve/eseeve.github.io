@@ -7,7 +7,7 @@ const Home = () => (
     <div className='animate fadeInUp one' >
       <h1>Hello,</h1>
     <p>
-      My name is Elias and I am enthusiastic about skating,
+      My name is Elias and I am enthusiastic about disc golf,
       web development and modern art.
     </p>
    </div>

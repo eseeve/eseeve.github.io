@@ -1,5 +1,6 @@
 import React from 'react'
-import Certificate from './images/certificate-fullstack.png'
+import FullstackCertificate from './images/certificate-fullstack.png'
+import DockerCertificate from './images/certificate-docker.png'
 import SurveyApp from './images/survey-app.png'
 
 const Projects = () => (
@@ -12,9 +13,9 @@ const Projects = () => (
         Helsinki University, which focused on building single page applications
         with React.js and Node.js.
       </p>
-      <img style={{marginLeft: 'auto', marginRight: 'auto', width: '40%'}} src={Certificate} alt='Full stack open 2020 certificate Elias Seeve'></img>
+      <img style={{marginLeft: 'auto', marginRight: 'auto', width: '40%'}} src={FullstackCertificate} alt='Full stack open 2020 certificate Elias Seeve'></img>
     </div>
-    <div className='animateSlow fadeIn three' style={{paddingBottom: '100px'}}>
+    <div className='animateSlow fadeIn three'>
       <h2>Survey App</h2>
       <p>
         Survey App is a page for creating different surveys and quizzes. 
@@ -24,6 +25,14 @@ const Projects = () => (
         View on <a href='https://github.com/eseeve/survey-app'>GitHub</a>.
       </p>
       <img style={{marginLeft: 'auto', marginRight: 'auto', width: '40%'}} src={SurveyApp} alt='Survey app homepage'></img>
+    </div>
+    <div className='animateSlow fadeIn three' style={{paddingBottom: '100px'}}>
+      <h2>DevOps with Docker</h2>
+      <p>
+        I have completed the <a href='https://devopswithdocker.com/'>DevOps with Docker</a> course from
+        Helsinki University, which focused on containerizing applications and docker-compose.
+      </p>
+      <img style={{marginLeft: 'auto', marginRight: 'auto', width: '40%'}} src={DockerCertificate} alt='Full stack open 2020 certificate Elias Seeve'></img>
     </div>
   </div>
 )

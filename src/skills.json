@@ -1,0 +1,17 @@
+{
+    "python" : "I have done different course work with python, such as data science, programming AI, machine learning and web development.",
+    "typescript" : "I have used TypeScript to program React and React Native applications.",
+    "c" : "I have done course work with C/C++, including a video game group project.",
+    "javascript" : "I have used JavaScript as my main language in Fullstack projects.",
+    "haskell" : "I know the basics of Haskell and functional programming.",
+    "scala" : "I have done most of my programming courses with scala, which included topics like data structures and algorithms.",
+    "css" : "I know how to use CSS and HTML to style websites.",
+    "react" : "React is my main library to use in Fullstack programming. I have done multiple React projects as course work and also on my free time.",
+    "reactNative" : "I have done a React Native course, where I learned the basics of React Native and mobile application development.",
+    "node" : "I have programmed different web servers with Node.js and it is the main language I use to program a backend to web applications.",
+    "django" : "I know the basics of Django and I have programmed small web applications using it, mainly on my cyber security courses.",
+    "docker" : "I have done a course about Docker and I know how to containerize different applications. I also know the basics of Kubernetes.",
+    "mongodb" : "I have used MongoDB as a NoSQL database for most of my Fullstack web applications.",
+    "graphql" : "I have used GraphQL to program databases for different web applications.",
+    "reactRedux" : "I have used React Redux library to handle state in web applications."
+}
