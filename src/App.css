@@ -3,6 +3,55 @@
   color: white;
 }
 
+.header {
+  max-width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image {
+  max-width: 60%;
+}
+
+.container {
+  max-width: 90%;
+}
+
+.certificate {
+  max-width: 85%;
+}
+
+.skill_break {
+  display: none
+}
+
+@media only screen and (min-width: 500px) {
+  .image {
+    max-width: 40%;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .image {
+    max-width: 30%;
+  }
+
+  .certificate {
+    max-width: 40%;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .image {
+    max-width: 20%;
+  }
+
+  .skill_break {
+    display: flex
+  }
+
+}
+
 .GitHubLogo {
   position: absolute;
   left: 10px;
@@ -26,16 +75,20 @@
   background-color: #282c34;
   top: 0;
   text-align: right;
-  padding: 10px;
-  margin-bottom: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
-.Scrolled{
+.Scrolled {
   position: fixed;
   text-align: right;
   top: 0;
   left: 0;
   background-color: #282c34;
+}
+
+.Skills {
+  padding-bottom: 3rem;
 }
 
 .Skill {
@@ -53,10 +106,6 @@
 .Skill:hover {
   background-color: #61dafb;
   transform: scale(1.04);
-}
-
-.Skill:focus {
-  background-color: #61dafb;
 }
 
 .animate {
@@ -105,6 +154,7 @@
     transform: none;
   }
 }
+
 @keyframes fadeInUp {
   from {
     opacity: 0;
@@ -133,6 +183,7 @@
     opacity: 1;
   }
 }
+
 @keyframes fadeIn {
   from {
     opacity: 0;
