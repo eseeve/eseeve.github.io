@@ -1,24 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9161a931.chunk.css",
-    "main.js": "/static/js/main.96e49ab7.chunk.js",
-    "main.js.map": "/static/js/main.96e49ab7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
-    "static/js/2.7ce06399.chunk.js": "/static/js/2.7ce06399.chunk.js",
-    "static/js/2.7ce06399.chunk.js.map": "/static/js/2.7ce06399.chunk.js.map",
+    "main.css": "/static/css/main.5b1f4400.css",
+    "main.js": "/static/js/main.1b1c2691.js",
+    "static/media/certificate-docker.png": "/static/media/certificate-docker.0dd9eaf7f66b84d98ee5.png",
+    "static/media/certificate-fullstack.png": "/static/media/certificate-fullstack.b46b0093f5a1ec3593f0.png",
+    "static/media/skating.jpg": "/static/media/skating.484a66932aabd2839144.jpg",
+    "static/media/certificate-dotnet+react.jpg": "/static/media/certificate-dotnet+react.2e1b587590426bcd4979.jpg",
+    "static/media/survey-app.png": "/static/media/survey-app.625e26063ddbda389f6d.png",
     "index.html": "/index.html",
-    "static/css/main.9161a931.chunk.css.map": "/static/css/main.9161a931.chunk.css.map",
-    "static/js/2.7ce06399.chunk.js.LICENSE.txt": "/static/js/2.7ce06399.chunk.js.LICENSE.txt",
-    "static/media/certificate-docker.0dd9eaf7.png": "/static/media/certificate-docker.0dd9eaf7.png",
-    "static/media/certificate-fullstack.b46b0093.png": "/static/media/certificate-fullstack.b46b0093.png",
-    "static/media/skating.484a6693.jpg": "/static/media/skating.484a6693.jpg",
-    "static/media/survey-app.625e2606.png": "/static/media/survey-app.625e2606.png"
+    "main.5b1f4400.css.map": "/static/css/main.5b1f4400.css.map",
+    "main.1b1c2691.js.map": "/static/js/main.1b1c2691.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fd7dc15.js",
-    "static/js/2.7ce06399.chunk.js",
-    "static/css/main.9161a931.chunk.css",
-    "static/js/main.96e49ab7.chunk.js"
+    "static/css/main.5b1f4400.css",
+    "static/js/main.1b1c2691.js"
   ]
 }
