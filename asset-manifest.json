@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.8051493f.css",
-    "main.js": "/static/js/main.cdac163a.js",
-    "static/media/portrait.jpg": "/static/media/portrait.26020cdf6dca27380066.jpg",
+    "main.js": "/static/js/main.386d2ade.js",
+    "static/media/portrait.jpg": "/static/media/portrait.77d267f231834c62116e.jpg",
     "static/media/Wapice_Logo_White_(No_Slogan).png": "/static/media/Wapice_Logo_White_(No_Slogan).9fbb35a83440a985b4b6.png",
     "static/media/aalto-sci.png": "/static/media/aalto-sci.57430d28f72f957f47a0.png",
     "index.html": "/index.html",
     "main.8051493f.css.map": "/static/css/main.8051493f.css.map",
-    "main.cdac163a.js.map": "/static/js/main.cdac163a.js.map"
+    "main.386d2ade.js.map": "/static/js/main.386d2ade.js.map"
   },
   "entrypoints": [
     "static/css/main.8051493f.css",
-    "static/js/main.cdac163a.js"
+    "static/js/main.386d2ade.js"
   ]
 }
