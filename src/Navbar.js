@@ -1,19 +1,18 @@
-import React from 'react';
-import { Link } from 'react-router-dom'
-import GitHubLogo from './images/GitHub-Mark-Light-32px.png'
-import './App.css';
+import React from "react";
+import GitHubLogo from "./images/GitHub-Mark-Light-32px.png";
+import lnLogo from "./images/In-White-34.png";
 
-const Navbar=() => {
+const Navbar = () => {
   return (
-    <div className='Navigation'>
-      <a className='GitHubLogo' href='https://github.com/eseeve'><img style={{float: 'left'}}src={GitHubLogo} alt='Link to GitHub'/></a>
-      <div className='Navigation-sub'>
-        <Link to='/' className='Item'>Home</Link>
-        <Link to='/about' className='Item'>About Me</Link>
-        <Link to='/projects' className='Item'>Projects</Link>
-      </div>
+    <div className="flex flex-row h-8">
+      <a href="https://github.com/eseeve">
+        <img className="m-2" src={GitHubLogo} alt="Link to GitHub" />
+      </a>
+      <a href="https://www.linkedin.com/in/elias-seeve/">
+        <img className="m-2" src={lnLogo} alt="Link to GitHub" />
+      </a>
     </div>
-  )
-}
+  );
+};
 
 export default Navbar;
